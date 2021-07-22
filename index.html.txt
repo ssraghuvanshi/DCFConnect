@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Deep Connect Foundation</h1>
-<p>This is an Environmental Organization. It is a group of people working actively for environment conservation.</p>
+<p>This is an Environmental Organization. It is a group of people who are working actively for environment conservation.</p>
 </body>
 </html>
